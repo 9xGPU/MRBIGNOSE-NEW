@@ -7,4 +7,4 @@ ShareX Capture - CTRL+F5: Makes it so if I hit CTRL+F5 it will start a ShareX re
 PowerShell Program Installer - A Advanced Program Installer <br>
 always num=on - Forces NumLock to be On <br>
 
-- MrBignose5866
+ - MrBignose5866
